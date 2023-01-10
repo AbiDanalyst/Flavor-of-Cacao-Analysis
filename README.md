@@ -27,5 +27,7 @@ These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan
 
 # Business Questions
 Where are the best cocoa beans grown?
+
 Which countries produce the highest-rated bars?
+
 What’s the relationship between cocoa solids percentage and rating?
